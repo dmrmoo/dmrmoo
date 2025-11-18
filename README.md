@@ -1,4 +1,4 @@
-### Learning py, c++, r, and matlab
+### Learning py, julia, lua, html, and css
 
 
 ## I know java :)
